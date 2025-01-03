@@ -37,7 +37,7 @@ I have a range of interests. Technology & IT have always been my primary ones si
 - [Twitter](https://twitter.com/tuxracer)
 - [YouTube](https://www.youtube.com/channel/UCHKtasHcMGuYR95T8yqYeDA)
 - [Steam](http://steamcommunity.com/id/kinisis)
-- [Letterboxd](https://letterboxd.com/Kinisis)
+- [Letterboxd](https://letterboxd.com/Sztukmistrz)
 - [RateYourMusic](https://rateyourmusic.com/~Kinisis)
 - [AniList](https://anilist.co/user/Kinisis)
 - [MyAnimeList](http://myanimelist.net/profile/kinisis)
