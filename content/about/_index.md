@@ -41,4 +41,3 @@ I have a range of interests. Technology & IT have always been my primary ones si
 - [RateYourMusic](https://rateyourmusic.com/~Kinisis)
 - [AniList](https://anilist.co/user/Kinisis)
 - [MyAnimeList](http://myanimelist.net/profile/kinisis)
-w
