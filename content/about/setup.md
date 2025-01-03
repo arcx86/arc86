@@ -3,7 +3,7 @@ date = '2024-12-21T12:23:47'
 lastmod = '2024-12-21T12:23:47Z'
 draft = false
 title = 'Setup'
-weight = 1
+weight = 2
 +++
 
 - **Desktop** - Dell Precision 5820 

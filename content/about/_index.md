@@ -25,19 +25,7 @@ I'm a hobbyist working in the IT industry who has been living on the internet si
 
 I have a range of interests. Technology & IT have always been my primary ones since very early childhood. I'm also a cinema (mainly what could be considered arthouse/experimental/otherwise interesting) enthusiast and anime (mostly pre-2010s) fan.
 
-### External Links
-
-**Contact**
+### Contact
 
 - Discord: Kinisis
 - Email: admin@arc86.net | [PGP Key](/files/publickey.asc)
-
-**Where to Find Me**
-
-- [Twitter](https://twitter.com/tuxracer)
-- [YouTube](https://www.youtube.com/channel/UCHKtasHcMGuYR95T8yqYeDA)
-- [Steam](http://steamcommunity.com/id/kinisis)
-- [Letterboxd](https://letterboxd.com/Sztukmistrz)
-- [RateYourMusic](https://rateyourmusic.com/~Kinisis)
-- [AniList](https://anilist.co/user/Kinisis)
-- [MyAnimeList](http://myanimelist.net/profile/kinisis)
