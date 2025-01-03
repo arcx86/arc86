@@ -1,0 +1,12 @@
+{{ define "main" }}
+  {{ .Content }}
+  <h1>Latest Blog Posts</h1>
+  <div><a href="/blog">See All</a> | <a href="/blog/index.xml">RSS</a></div>
+  <ul>
+    {{ range first 5 (where .Site.RegularPages "Section" "blog") }}
+      <li>
+        {{ .Date.Format "2006-01-02 15:04" }} <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

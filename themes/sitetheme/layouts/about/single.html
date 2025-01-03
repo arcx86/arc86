@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $dateHuman := .Date | time.Format "2006-01-02 15:04" }}
+  {{ $lastmodDateMachine := .Lastmod | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $lastmodDateHuman := .Lastmod | time.Format "2006-01-02 15:04" }}
+  <p>Page Created: <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time><br>
+  Last Modified: <time datetime="{{ $lastmodDateMachine }}">{{ $lastmodDateHuman }}</time></p>
+
+  <p><a href="{{ .Site.BaseURL }}about/">&larr; Back</a></p>
+
+  {{ .Content }}
+{{ end }}

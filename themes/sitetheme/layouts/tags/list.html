@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <h1>#{{ .Title }}</h1>
+  <p><a href="{{ .Site.BaseURL }}blog/">&larr; Back</a></p>
+  {{ .Content }}
+  <ul>
+    {{ range .Pages }}
+      <li>
+        {{ .Date.Format "2006-01-02 15:04" }} <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> {{ partial "terms-minimal.html" (dict "taxonomy" "tags" "page" .) }}
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

@@ -1,0 +1,16 @@
+{{- /*
+Renders a simple menu for the given menu ID.
+
+@example: {{ partial "menu.html" "main" }}
+*/}}
+
+{{- $menuID := .menuID }}
+
+{{- with index site.Menus $menuID }}
+  <nav>
+    {{- $last := (sub (len .) 1) }} <!-- Get the index of the last item -->
+    {{- range $i, $menu := . }}
+      <a href="{{ $menu.URL }}">{{ $menu.Name }}</a>{{ if lt $i $last }} | {{ end }}
+    {{- end }}
+  </nav>
+{{- end }}

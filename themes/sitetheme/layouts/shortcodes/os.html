@@ -1,0 +1,9 @@
+<!-- layouts/shortcodes/platform.html -->
+{{ $platforms := dict "w" (dict "tooltip" "Windows" "label" "[W]")
+                      "l" (dict "tooltip" "Linux" "label" "[L]")
+                      "m" (dict "tooltip" "Mac" "label" "[M]") }}
+
+{{ $platform := .Get 0 }}
+{{ $details := index $platforms $platform }}
+
+<span class="{{ $platform }}" title="{{ $details.tooltip }}">{{ $details.label }}</span>

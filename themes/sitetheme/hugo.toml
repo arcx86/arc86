@@ -1,0 +1,28 @@
+baseURL = 'https://kinisis.xyz/'
+languageCode = 'en-GB'
+title = 'Kinisis Web'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'About'
+pageRef = '/about'
+weight = 20
+
+[[menus.main]]
+name = 'Blog'
+pageRef = '/blog'
+weight = 30
+
+[[menus.main]]
+name = 'Content'
+pageRef = '/content'
+weight = 40
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"

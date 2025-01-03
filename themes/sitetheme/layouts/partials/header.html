@@ -1,0 +1,8 @@
+<div id="logo">
+    <a href="https://arc86.net">
+    {{ with resources.Get "header.png" }}
+    <img src="{{ .RelPermalink }}" alt="arc86.net">
+    </a>
+{{ end }}
+</div>
+{{ partial "menu.html" (dict "menuID" "main" "page" .) }}

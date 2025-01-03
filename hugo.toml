@@ -1,0 +1,11 @@
+baseURL = 'https://arc86.net/'
+languageCode = 'en-gb'
+title = 'arc86'
+theme = 'sitetheme'
+defaultContentLanguage = "en-GB"
+[languages]
+  [languages.en-GB]
+    languageName = "English (UK)"
+    weight = 1
+[permalinks]
+  blog = '/blog/:year:month:day'
