@@ -1,6 +1,6 @@
 +++
 date = '2024-11-12T14:38:05Z'
-lastmod = '2024-11-12T14:38:05Z'
+lastmod = '2025-01-03T13:48:43Z'
 draft = false
 title = 'About'
 +++
@@ -25,15 +25,12 @@ I'm a hobbyist working in the IT industry who has been living on the internet si
 
 I have a range of interests. Technology & IT have always been my primary ones since very early childhood. I'm also a cinema (mainly what could be considered arthouse/experimental/otherwise interesting) enthusiast and anime (mostly pre-2010s) fan.
 
-I used the name "Kinisis" since no earlier than 2012. It has no particular meaning and is just something I came up with that I thought sounded/read kind of interesting.
-
 ### External Links
 
 **Contact**
 
 - Discord: Kinisis
-- Email: me@kinisis.xyz
-- PGP Key: Download | Fingerprint: 4D17 DA99 A607 E7E9 101F 277A 3610 9540 2F85 54E2
+- Email: admin@arc86.net | [PGP Key](/files/publickey.asc)
 
 **Where to Find Me**
 
@@ -44,3 +41,4 @@ I used the name "Kinisis" since no earlier than 2012. It has no particular meani
 - [RateYourMusic](https://rateyourmusic.com/~Kinisis)
 - [AniList](https://anilist.co/user/Kinisis)
 - [MyAnimeList](http://myanimelist.net/profile/kinisis)
+w
