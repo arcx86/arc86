@@ -39,7 +39,7 @@ Ubuntu/Debian downstream distro advertised as being beginner friendly out of the
 
 [Website](https://pop.system76.com/)
 
-Another Ubuntu derivative, this time vanilla GNOME-based. The team behind it have recently been working on the new [COSMIC desktop](https://system76.com/cosmic/) aiming to bring together Wayland and tiling window management under a more fully featured desktop environment.
+Another Ubuntu derivative, this time vanilla GNOME-based and with a stupid name. The team behind it have recently been working on the new [COSMIC desktop](https://system76.com/cosmic/) aiming to bring together Wayland and tiling window management under a more fully featured desktop environment.
 
 ---
 

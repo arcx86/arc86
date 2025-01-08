@@ -1,6 +1,6 @@
 +++
 date = '2024-11-18T11:15:22Z'
-lastmod = '2025-01-03T13:36:19Z'
+lastmod = '2025-01-07T11:24:15Z'
 draft = false
 title = 'Webring'
 weight = 1
@@ -161,3 +161,5 @@ Previous Threads: [14](https://web.archive.org/web/20241127032413/https://lainch
 [![Glowbox](/img/lainring/glowbox.gif)](https://glowbox.cc/)
 [![Midnight Mountain](/img/lainring/midnightmountain.png)](https://midnightmountain.xyz/)
 [![The Promised Future Aeons](/img/lainring/thepromisedfutureaeons.png)](http://thepromisedfutureaeons.xyz/)
+[![Riverbed](/img/lainring/riverbed.gif)](https://riverbed.foo/)
+[![Riverbed](/img/lainring/uranus.gif)](https://uranus.nekoweb.org/)
